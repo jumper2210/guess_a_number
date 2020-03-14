@@ -1,7 +1,8 @@
 ## Info
 Simple application showing my learning progress
-### Technologies
--ReactNative
--JS/ES6
+
+#### Technologies
+- ReactNative
+- S/ES6
 
 
