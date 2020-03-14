@@ -3,6 +3,6 @@ Simple application showing my learning progress
 
 #### Technologies
 - ReactNative
-- S/ES6
+- JS/ES6
 
 
