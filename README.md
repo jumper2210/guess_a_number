@@ -1,5 +1,5 @@
 ## Info
-"Guess a number" - Simple application showing my learning progress
+"Guess a number"
 
 #### Technologies
 - ReactNative
